@@ -1,4 +1,5 @@
-# Purchase Slack Command
+# Slack Slash Command for .NET
+
 
 This sample Slack Command Application should help with understanding: 
 
@@ -17,4 +18,3 @@ This sample Slack Command Application should help with understanding:
 
 # add FirebaseDatabase to have access to Firebase database
 dotnet add package FirebaseDatabase.net --version 3.3.3# slack-slash-command-dotnet
-# slack-slash-command-dotnet
